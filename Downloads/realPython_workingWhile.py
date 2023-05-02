@@ -2,7 +2,9 @@ import os
 import processing
 wayToTIFSource = 'F:\Prokurotura'
 maskLayer=r'C:\Users\A.Agadilov\Downloads\NewJoin.kml'
-output_Path = wayToTIFSource+'_Cliper'
+output_Path = os.path.join(os.getcwd() ,'Cliper')
+
+print('output_Path',output_Path)
 
 if not os.path.exists(output_Path):
     os.mkdir(output_Path)
