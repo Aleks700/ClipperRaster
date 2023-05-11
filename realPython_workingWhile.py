@@ -1,7 +1,7 @@
 import os
 import processing
-wayToTIFSource = 'F:\Prokurotura'
-maskLayer=r'C:\Users\A.Agadilov\Downloads\NewJoin.kml'
+wayToTIFSource = 'W:\share\Alexey\Real_chelyabinsk2023\HR_2305080829265'
+maskLayer=r'F:\Chelyabinsk\areaToClip\HR_2305080829265_Clip.kml'
 output_Path = os.path.join( os.path.dirname(maskLayer) ,'Cliper')
 
 
@@ -34,6 +34,7 @@ for i in tif:
     #print(testwayName[-2]+'_'+testwayName[-1])
     newName = testwayName[-2].split('_')
     newToSaveName = newName[-3]+"_"+newName[-2]+"_"+newName[-1]+"_"+testwayName[-1]
+    newToSaveName =testwayName[-2]+"_"+testwayName[-1]+"_"+'IMAGES'
     print(newToSaveName)
     output =os.path.join(output_Path,newToSaveName)
     print(output)

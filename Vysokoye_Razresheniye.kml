@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="merged" id="merged">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="path" type="string"></SimpleField>
+</Schema>
+<Folder><name>merged</name>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.016 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24936361 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.997 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тарбагатайский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.8626041238,51.7392826699,0 107.8626041238,51.6943669057,0 107.9351016927,51.6943669057,0 107.9351016927,51.7392826699,0 107.8626041238,51.7392826699,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 43.678329&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = РіСЂР°РЅРёС†С‹ СЂР°Р№РѕРЅРѕРІ_РїР».shp&lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = РћР»СЊСЃРєРёР№ РіРѕСЂРѕРґСЃРєРѕР№ РѕРєСЂСѓРі&lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = 81520000&lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = Р“СЂР°РЅРёС†С‹ РјСѓРЅРёС†РёРїР°Р»СЊРЅС‹С… РѕР±СЂР°Р·РѕРІР°РЅРёР№ 2-РіРѕ РїРѕСЂСЏРґРєР°(РіСЂР°РЅРёС†С‹ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅС‹С… СЂР°Р№РѕРЅРѕРІ)&lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = Р“СЂР°РЅРёС†С‹ РјСѓРЅРёС†РёРїР°Р»СЊРЅС‹С… РѕР±СЂР°Р·РѕРІР°РЅРёР№ 2-РіРѕ РїРѕСЂСЏРґРєР°(РіСЂР°РЅРёС†С‹ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅС‹С… СЂР°Р№РѕРЅРѕРІ)&lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = YES&lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = Solid&lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = No Fill&lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = 148.4202128983,60.1960281364&lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = 12&lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = 400&lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Ольский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>151.2833204236,59.5650343074,43.678 151.2959653822,59.5642725473,43.678 151.3285972914,59.5623067294,43.678 151.3331579335,59.5662936399,43.678 151.3486921961,59.5668519024,43.678 151.3477698492,59.5770705345,43.678 151.3367662267,59.5745057804,43.678 151.3290073727,59.581196823,43.678 151.3314983573,59.6076736731,43.678 151.3179944444,59.6137573118,43.678 151.3208348079,59.6243311836,43.678 151.325731646,59.6252344465,43.678 151.3254734823,59.6483346747,43.678 151.3303998686,59.6598224033,43.678 151.3310442405,59.6748614652,43.678 151.3102766739,59.6756978378,43.678 151.3091396939,59.6541755014,43.678 151.3083363613,59.640052627,43.678 151.3068800242,59.6246882704,43.678 151.3014915769,59.621848413,43.678 151.2971249126,59.6181311578,43.678 151.2883293942,59.6092588398,43.678 151.2904437956,59.6040773497,43.678 151.2934089059,59.6029160305,43.678 151.2925351036,59.5993480046,43.678 151.286272854,59.5946877258,43.678 151.2792223001,59.5777019221,43.678 151.2833204236,59.5650343074,43.678</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.032 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24913651 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.009 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5.004 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.913651</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Ольский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>148.6129916051,59.7845952311,24.914 148.6129916051,59.7396794669,24.914 148.7021707569,59.7396794669,24.914 148.7021707569,59.7845952311,24.914 148.6129916051,59.7845952311,24.914</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.031 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24912848 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5.004 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.912848</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Ольский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>151.4485334119,59.7765048054,24.913 151.4485334119,59.7315890412,24.913 151.5376880197,59.7315890412,24.913 151.5376880197,59.7765048054,24.913 151.4485334119,59.7765048054,24.913</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 19° 19' 21.236&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 25.098 km&lt;BR&gt;&lt;B&gt;ENCLOSED_A&lt;/B&gt; = 28487754 sq m&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 28.487754&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ISLAND_ARE&lt;/B&gt; = 0 sq m&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 28487754 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.5772529223,56.2296763455,28.488 107.6283508222,56.31058534,28.488 107.6054868017,56.3150543498,28.488 107.5826174432,56.3195191359,28.488 107.531604115,56.2385914184,28.488 107.5544311689,56.2341359885,28.488 107.5772529223,56.2296763455,28.488</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 33° 02' 01.339&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 33.917 km&lt;BR&gt;&lt;B&gt;ENCLOSED_A&lt;/B&gt; = 50319805 sq m&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 56.903293&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ISLAND_ARE&lt;/B&gt; = 0 sq m&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 50319805 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.4560284033,56.137643704,56.903 107.5282593354,56.2075516526,56.903 107.5118023023,56.2252717174,56.903 107.4780346485,56.237534146,56.903 107.407466348,56.1586895915,56.903 107.3894372912,56.154858917,56.903 107.3636035554,56.1340836347,56.903 107.3894919959,56.1241295559,56.903 107.4213740628,56.1329813915,56.903 107.4560284033,56.137643704,56.903</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 174° 53' 10.275&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 25.423 km&lt;BR&gt;&lt;B&gt;ENCLOSED_A&lt;/B&gt; = 28976939 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 28.976939&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ISLAND_ARE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 28.976939</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.6608443032,56.0778453651,28.977 107.6747694308,55.9909731984,28.977 107.698711144,55.9921736503,28.977 107.7226543382,55.9933694537,28.977 107.7088360392,56.0802469754,28.977 107.6848394249,56.0790485021,28.977 107.6608443032,56.0778453651,28.977</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 163° 58' 17.605&quot;,178° 46' 58.912&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 30.384 km&lt;BR&gt;&lt;B&gt;ENCLOSED_A&lt;/B&gt; = 38005274 sq m&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 50.411804&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ISLAND_ARE&lt;/B&gt; = 0 sq m&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 38005274 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.8213154781,55.948160036,50.412 107.7961609293,55.947880057,50.412 107.7693227006,55.9475557783,50.412 107.777136857,55.9160947835,50.412 107.7639987071,55.9090496886,50.412 107.7649242273,55.8783301038,50.412 107.7870426911,55.8776531448,50.412 107.8012729293,55.8445560711,50.412 107.824289693,55.8482734075,50.412 107.8473108479,55.8519864361,50.412 107.8371841279,55.8718413134,50.412 107.8280569317,55.9006599603,50.412 107.8213154781,55.948160036,50.412</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.025 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24.926434&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.009 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5.001 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.926434</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.0793473716,55.9495042723,24.926 107.0793473716,55.9045885081,24.926 107.1595185823,55.9045885081,24.926 107.1595185823,55.9495042723,24.926 107.0793473716,55.9495042723,24.926</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.025 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24.926827&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.009 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5.001 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.926827</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>108.4027592704,55.7867922496,24.927 108.4027592704,55.7418764854,24.927 108.4825955927,55.7418764854,24.927 108.4825955927,55.7867922496,24.927 108.4027592704,55.7867922496,24.927</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.023 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24.928331&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.928331</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.5583772133,55.1619003191,24.928 107.5583772133,55.1169845549,24.928 107.6369588191,55.1169845549,24.928 107.6369588191,55.1619003191,24.928 107.5583772133,55.1619003191,24.928</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 28.736715&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ РЎР‚Р В°Р в„–Р С•Р Р…Р С•Р Р†_Р С—Р В».shp&lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = Р С™Р В°Р В·Р В°РЎвЂЎР С‘Р Р…РЎРѓР С”Р С•-Р вЂєР ВµР Р…РЎРѓР С”Р С‘Р в„– РЎР‚Р В°Р в„–Р С•Р Р…&lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = 81520000&lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = YES&lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = Solid&lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = No Fill&lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = 107.9157721250,56.1087025327&lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = 12&lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = 400&lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.0681181556,56.3444253078,28.737 107.1320241811,56.307757223,28.737 107.189664246,56.3392330204,28.737 107.1219432561,56.3780816368,28.737 107.1170054236,56.3732855315,28.737 107.0990224236,56.3598455315,28.737 107.0965184236,56.3582845315,28.737 107.0847314236,56.3554605315,28.737 107.0777234236,56.3531655315,28.737 107.0722094236,56.3495155315,28.737 107.0685334236,56.3454925315,28.737 107.0681181556,56.3444253078,28.737</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 192° 54' 49.412&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0595799&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 66.216 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 52283515 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Казачинско-Ленский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.9388331964,56.7304420853,0 107.9279407173,56.7344133473,0 107.7988533154,56.6315484752,0 107.8200465245,56.4684884264,0 107.8329711412,56.4691433492,0 107.8458962024,56.4697969266,0 107.8252439368,56.6210204056,0 107.9497233786,56.7264698694,0 107.9388331964,56.7304420853,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 11° 36' 23.862&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 31.779 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 31692502 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Осинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.8099546295,53.4507229451,0 103.7863488663,53.4412630534,0 103.7833995193,53.4171588212,0 103.7639183647,53.3802545763,0 103.7856646629,53.3753135088,0 103.7991312099,53.3940080547,0 103.8186249075,53.3960301939,0 103.8333766986,53.3854652119,0 103.8314781099,53.3680828519,0 103.871126002,53.3692863165,0 103.8762813229,53.373400856,0 103.8590112561,53.4148834864,0 103.8498832333,53.4126310135,0 103.8218374541,53.4183166202,0 103.8156143535,53.4383714377,0 103.8099546295,53.4507229451,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 12.012 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 8975533 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 3.006 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 2.999 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Осинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.1171417908,53.5920830466,0 104.1171417908,53.565133588,0 104.1625326951,53.565133588,0 104.1625326951,53.5920830466,0 104.1171417908,53.5920830466,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 178° 24' 19.438&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 22.867 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 25180761 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Осинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.555451507,53.7398921018,0 103.5590425145,53.6641499237,0 103.5817258027,53.6645264363,0 103.6044094929,53.6648986523,0 103.6008999542,53.7406421664,0 103.5781755283,53.7402692883,0 103.555451507,53.7398921018,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 181° 19' 15.939&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0295351&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 47.025 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 45467545 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Осинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.7231405919,53.7182099721,0 103.7085553852,53.7157857309,0 103.6939718562,53.7133597136,0 103.7269701908,53.6434621863,0 103.6843066636,53.5355154612,0 103.7162143061,53.5312809471,0 103.7249657755,53.5531007319,0 103.7397111888,53.5522815423,0 103.7433156232,53.5868513446,0 103.7397111888,53.5979923235,0 103.7581335838,53.6439709025,0 103.7231405919,53.7182099721,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.024 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24927183 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.009 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5.001 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.5738774797,55.6394069117,0 105.5738774797,55.5944911475,0 105.6534134157,55.5944911475,0 105.6534134157,55.6394069117,0 105.5738774797,55.6394069117,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.022 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24928504 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.643584904,54.6865433585,0 105.643584904,54.6416275943,0 105.7212412472,54.6416275943,0 105.7212412472,54.6865433585,0 105.643584904,54.6865433585,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.022 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24929292 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 5 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.8825250294,54.7600981835,0 104.8825250294,54.7151824193,0 104.9603253134,54.7151824193,0 104.9603253134,54.7600981835,0 104.8825250294,54.7600981835,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 124.49 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 90494321 sq m&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 112° 52' 32.266&quot;,189° 01' 28.313&quot;,4° 49' 54.367&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0805022,1,1.0121488</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.1549962467,54.3770785926,0 105.1881212029,54.3736643441,0 105.1891406389,54.3996417574,0 105.2106580198,54.444697187,0 105.2237650538,54.4751710411,0 105.2315200489,54.4846736408,0 105.2403095808,54.5137203146,0 105.2358408492,54.6839039323,0 105.2255478692,54.7196130868,0 105.2210966094,54.7450797733,0 105.2243573934,54.7538355822,0 105.2442766021,54.7816460929,0 105.2419897811,54.8007546413,0 105.2350419487,54.8122426406,0 105.226871195,54.8129929322,0 105.2144554444,54.8140749241,0 105.2074747218,54.821198169,0 105.173292739,54.821198169,0 105.1190034533,54.8226586891,0 105.1049680613,54.8374866571,0 105.0849571249,54.8325924606,0 105.1223319529,54.7954666031,0 105.1970516579,54.7903662354,0 105.2145231572,54.7881672082,0 105.214212732,54.7787745416,0 105.2073288546,54.762712161,0 105.1935188167,54.7641462548,0 105.1922286861,54.7520358247,0 105.2021357541,54.7319158674,0 105.2063454743,54.7158692237,0 105.2146464493,54.6861868939,0 105.2189727945,54.5891612779,0 105.2056275768,54.5890004999,0 105.2062538086,54.5706302014,0 105.2250213234,54.5704324614,0 105.2253596814,54.514720942,0 105.2139577113,54.4979424528,0 105.208556277,54.477091044,0 105.1704267069,54.3948540492,0 105.1564458706,54.3958734851,0 105.1549962467,54.3770785926,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 64° 28' 27.528&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0096074&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 48.72 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 37893738 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.6664128894,54.9071368431,0 105.6618208764,54.9154720975,0 105.6412137062,54.911685621,0 105.4992841849,54.8840776308,0 105.3457639986,54.8254588015,0 105.3526427821,54.8194698997,0 105.3595195306,54.8134806023,0 105.5101237718,54.8709820495,0 105.6707045328,54.8988698544,0 105.6664128894,54.9071368431,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 10° 10' 42.215&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 37.185 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 27044999 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.4866360948,55.3461672424,0 105.5341947567,55.4963813397,0 105.5217376011,55.4976566079,0 105.5092796408,55.4989306086,0 105.4618123163,55.3487069166,0 105.4742246027,55.3474377098,0 105.4866360948,55.3461672424,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 30° 18' 09.306&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.1154719&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 47.854 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 35525923 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Жигаловский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.236274512,55.1486488029,0 105.2280129851,55.1540578516,0 105.0531886414,55.066160309,0 105.0656309248,54.9994755888,0 105.078038411,55.0003460553,0 105.1041317952,55.0024621428,0 105.1028210918,55.0154599516,0 105.0876023689,55.0153021817,0 105.0796481772,55.0603728744,0 105.2445338037,55.1432391896,0 105.236274512,55.1486488029,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.013 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24.938731&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.997 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Бичурский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.1286417113,50.6989148125,0 107.1286417113,50.6539990483,0 107.199520439,50.6539990483,0 107.199520439,50.6989148125,0 107.1286417113,50.6989148125,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ РЎР‚Р В°Р в„–Р С•Р Р…Р С•Р Р†_Р С—Р В».shp&lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = Р вЂР С‘РЎвЂЎРЎС“РЎР‚РЎРѓР С”Р С‘Р в„– РЎР‚Р В°Р в„–Р С•Р Р…&lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = 81520000&lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = YES&lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = Solid&lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = No Fill&lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = 107.5636377452,50.6398154949&lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = 12&lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = 400&lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 26287335 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Бичурский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>108.2337448412,50.8285748011,0 108.2352714236,50.8287365315,0 108.2368874236,50.8284705315,0 108.2377054236,50.8283365315,0 108.2413404236,50.8277385315,0 108.2457934236,50.8252205315,0 108.2514324236,50.8252885315,0 108.2555176338,50.8250451938,0 108.2555176338,50.8250451938,0 108.2678404465,50.825633834,0 108.2680244236,50.8265205315,0 108.2684874236,50.8287525315,0 108.2676424236,50.8311195315,0 108.2671814236,50.8340365315,0 108.2677194236,50.8359555315,0 108.2691004236,50.8374905315,0 108.2736294236,50.8385655315,0 108.2745194236,50.8385655315,0 108.2749334236,50.8386645315,0 108.2747951326,50.8424452982,0 108.27018621,50.8811604082,0 108.2698914236,50.8813935315,0 108.2684224236,50.8849035315,0 108.2642604236,50.8905345315,0 108.2649134236,50.8946165315,0 108.2608324236,50.8996345315,0 108.2614034236,50.9022465315,0 108.2622479851,50.9048856245,0 108.24606893,50.9041127828,0 108.2186494046,50.9029470544,0 108.2337448412,50.8285748011,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 21.755 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 25085384 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Бичурский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>107.9102855727,50.8360346835,0 107.9327313685,50.771072946,0 107.9790155825,50.7828692766,0 107.9537713814,50.8482489716,0 107.9102855727,50.8360346835,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 28.758 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 34730326 sq m&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 164° 43' 22.801&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.5667947887,52.8941291328,0 103.5533838704,52.9238895832,0 103.5318688902,52.920340024,0 103.5103574304,52.9167865678,0 103.5433692568,52.8436896942,0 103.5648472644,52.8472372215,0 103.5788519479,52.8657266318,0 103.6242589819,52.8653376048,0 103.6242589819,52.8941291328,0 103.5667947887,52.8941291328,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 12° 38' 04.036&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0369888&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 75.296 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 122875107 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.7222797295,52.678592859,0 103.7486631657,52.678592859,0 103.7411539924,52.6985592941,0 103.7289305253,52.7185297976,0 103.7065378989,52.7185297976,0 103.6565484336,52.8355120617,0 103.5927244236,52.8259575315,0 103.5686559243,52.8168503747,0 103.6190403381,52.7020937679,0 103.654766917,52.7098423029,0 103.6772980633,52.7138298295,0 103.6948235385,52.678592859,0 103.7039887761,52.6276674317,0 103.6627883692,52.581721174,0 103.6757355407,52.5774161243,0 103.6886801762,52.573109656,0 103.7337919616,52.6233791322,0 103.7222797295,52.678592859,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 14° 31' 52.887&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 27.537 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 32164794 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.5219272196,52.9543201155,0 103.5606525227,53.0482170622,0 103.5390032241,53.0516065664,0 103.51735053,53.054992129,0 103.4786921378,52.9610840406,0 103.5003113666,52.9577040443,0 103.5219272196,52.9543201155,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 37.835 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 43996332 sq m&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 91° 22' 09.540&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.9535575111,53.1174969563,0 103.9984744258,53.1174969563,0 103.9984744258,53.1444464149,0 103.9797784532,53.1444464149,0 103.9803038808,53.1564266002,0 103.9808951824,53.1699002928,0 103.8043648964,53.1725674181,0 103.8038288359,53.1590928965,0 103.803293111,53.1456183418,0 103.9535575111,53.1433480477,0 103.9535575111,53.1174969563,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.019 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24933437 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.999 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.8512360987,53.0755225599,0 103.8512360987,53.0306067957,0 103.9259623149,53.0306067957,0 103.9259623149,53.0755225599,0 103.8512360987,53.0755225599,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.019 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24932791 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.999 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.777852962,53.2796007272,0 103.777852962,53.234684963,0 103.8529347226,53.234684963,0 103.8529347226,53.2796007272,0 103.777852962,53.2796007272,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 45.944 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 39753134 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Усольский+ГО Усолье-Сибирское+Боханский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.3922191588,53.2103430334,0 103.4869452514,53.1820166006,0 103.4874367651,53.1488394207,0 103.426249433,53.1727066499,0 103.4182796336,53.1582071618,0 103.4891957473,53.1286926654,0 103.5082718863,53.1129591294,0 103.5173635286,53.1145905823,0 103.5010972111,53.2050361143,0 103.3979116643,53.2316449148,0 103.3922191588,53.2103430334,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.013 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24938846 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.996 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Джидинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.6211419103,50.4969735243,0 105.6211419103,50.4520577601,0 105.6917164592,50.4520577601,0 105.6917164592,50.4969735243,0 105.6211419103,50.4969735243,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.015 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24936275 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.997 km</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.9555125543,51.6961764353,0 100.9555125543,51.6512606711,0 101.0279405658,51.6512606711,0 101.0279405658,51.6961764353,0 100.9555125543,51.6961764353,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 10° 38' 13.467&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 31.144 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 31483329 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.6939949593,51.6250690447,0 101.7000598352,51.6934899404,0 101.6826033312,51.7089028477,0 101.6470559642,51.7130535958,0 101.6535972299,51.6894499265,0 101.6740850856,51.6840658063,0 101.67065065,51.6572414098,0 101.6635833265,51.6506300426,0 101.6276536684,51.6509863616,0 101.6252829922,51.6214488355,0 101.6543639016,51.6154955036,0 101.6939949593,51.6250690447,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 81° 07' 02.686&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 31.276 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 36197699 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.9750732742,51.6468629306,0 102.0172296232,51.6516992528,0 102.018467275,51.6617908752,0 102.1267644592,51.6614998045,0 102.112909628,51.6994916532,0 102.0634035559,51.6953026779,0 102.0651315862,51.6874141694,0 102.0296470554,51.6852077121,0 102.0291301213,51.6930177823,0 101.9828609847,51.6859726874,0 101.9750732742,51.6468629306,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 154° 12' 04.310&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 50.908 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 65010715 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.5450164002,51.7954808634,0 102.5187963062,51.8031534155,0 102.5047442617,51.8069745114,0 102.5047442617,51.8330764872,0 102.5052633352,51.8782342599,0 102.4616467244,51.8794709684,0 102.4616467244,51.8345552042,0 102.4611468978,51.8087116735,0 102.4775083821,51.8088860446,0 102.4798700213,51.7754479418,0 102.5064693823,51.7763288141,0 102.5236248444,51.7593376653,0 102.5225874391,51.746759126,0 102.5085186576,51.7378481913,0 102.5240138714,51.728345182,0 102.5314053841,51.7286045334,0 102.5411310588,51.7293825873,0 102.5474402218,51.7247081463,0 102.5578592192,51.7217317233,0 102.561640627,51.7112878523,0 102.5686536897,51.713391095,0 102.6012379432,51.7231499744,0 102.5450164002,51.7954808634,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 28.043 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 38701558 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.396972092,51.6612326713,0 102.4758355383,51.6612326713,0 102.5293466954,51.6637556882,0 102.5293466954,51.6907051467,0 102.4758355383,51.6906403609,0 102.4758355383,51.7061484355,0 102.396972092,51.7061484355,0 102.396972092,51.6612326713,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 23° 06' 23.591&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0888045&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 26.495 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 32741697 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.8941114027,51.8028688792,0 102.8724165323,51.8037917755,0 102.8707632512,51.7698117401,0 102.8261960846,51.7344440267,0 102.839770768,51.7239227652,0 102.8533391506,51.7133999175,0 102.9090337288,51.7410732692,0 102.9158053852,51.8019419805,0 102.8941114027,51.8028688792,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 43° 13' 25.226&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 23.442 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 30755372 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.3995284363,51.858955982,0 102.4761041703,51.9096416439,0 102.4549487675,51.9219711083,0 102.4337817683,51.9342967431,0 102.3572128871,51.8835764566,0 102.3783764375,51.8712681345,0 102.3995284363,51.858955982,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 53° 45' 53.691&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 38.648 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 30566075 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Тункинский.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.5186209396,51.7372490181,0 101.5180827084,51.7159213043,0 101.497813523,51.71635427,0 101.4979441457,51.7020092114,0 101.3760290677,51.6457745868,0 101.3828607384,51.6399750771,0 101.3896906664,51.6341751642,0 101.5157907249,51.6923332539,0 101.543251241,51.6923332539,0 101.5613682108,51.7091713573,0 101.5519548588,51.7232394148,0 101.5396103982,51.7184659588,0 101.5384453286,51.7372490181,0 101.5186209396,51.7372490181,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 57Â° 44' 15.227&quot;,159Â° 26' 22.637&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 25.218 km&lt;BR&gt;&lt;B&gt;ENCLOSED_A&lt;/B&gt; = 26744427 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 26.744427&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = &lt;BR&gt;&lt;B&gt;ISLAND_ARE&lt;/B&gt; =</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.6713379283,53.1422298603,26.744 105.6593825699,53.1536318315,26.744 105.6162075688,53.1372513875,26.744 105.60087021,53.1618756604,26.744 105.5798724377,53.1571439785,26.744 105.5588792842,53.152408592,26.744 105.5862790618,53.108486646,26.744 105.6072538266,53.1132172397,26.744 105.6267014552,53.1175990152,26.744 105.6328821522,53.1117072152,26.744 105.6832869563,53.1308266676,26.744 105.6713379283,53.1422298603,26.744</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 24.796 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 25400478 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.9818868186,53.2908029508,0 106.018349005,53.2910194629,0 106.018349005,53.3179689214,0 105.9650375955,53.3195954259,0 105.9654552062,53.342662699,0 105.9183304236,53.3434855315,0 105.9183304236,53.2985697673,0 105.9818868186,53.2985697673,0 105.9818868186,53.2908029508,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 36Â° 29' 49.102&quot;,157Â° 42' 34.456&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 33.45 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 27924913 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.7782137001,53.1098861104,0 105.7921432564,53.0895125206,0 105.8050860361,53.069586132,0 105.8381346032,53.0777362772,0 105.8281976923,53.0958163882,0 105.8109076328,53.0932653958,0 105.8048452958,53.1059674352,0 105.8450428084,53.1463805363,0 105.8678162801,53.1622728151,0 105.8789789177,53.1743467849,0 105.856774341,53.1880524132,0 105.7937615377,53.1318808799,0 105.7782137001,53.1098861104,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 46Â° 34' 22.573&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 26.755 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 26239945 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.6656525532,53.0172541091,0 105.6966921178,53.02664687,0 105.7113322533,53.0410453259,0 105.7619590085,53.0666247571,0 105.7684435261,53.0874674113,0 105.7530785005,53.097272,0 105.7256553149,53.0762927381,0 105.6725153815,53.0469260646,0 105.6314497144,53.0251568195,0 105.6468178907,53.0153689038,0 105.6656525532,53.0172541091,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 39Â° 03' 04.111&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1.0293551&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 35.701 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 26916129 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.8640200573,53.3351180863,0 105.8561575507,53.3405517864,0 105.7355425304,53.277872985,0 105.7057364727,53.2291965153,0 105.7169818521,53.2267194302,0 105.7363966463,53.2232788338,0 105.7559262809,53.2694441327,0 105.8718805656,53.3296838633,0 105.8640200573,53.3351180863,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 121Â° 52' 36.418&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 30.008 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 31919533 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.8427562061,53.2404557531,0 105.8429476172,53.2187088711,0 105.8643284665,53.2187088711,0 105.880794178,53.2315040096,0 105.9149543855,53.2076655914,0 105.974453945,53.1908170176,0 105.9902290047,53.2155729629,0 105.9223270922,53.2327327941,0 105.8933277793,53.2541136434,0 105.887429614,53.2636246353,0 105.8664922675,53.2633467062,0 105.8546210694,53.2519018314,0 105.8427562061,53.2404557531,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 47Â° 29' 08.429&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 44.591 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 42371928 sq m&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 32.389444&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = Ð ÑÐ¡ÐÐ Â°Ð ÐÐ ÑÐ¡â Ð¡â¹ Ð¡ÐÐ Â°Ð âÐ ÑÐ ÐÐ ÑÐ Ð_Ð ÑÐ Â».shp&lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = Ð âÐ Â°Ð¡ÐÐ ÐÐ ÒÐ Â°Ð ÂµÐ ÐÐ¡ÐÐ ÑÐ ÑÐ â Ð¡ÐÐ Â°Ð âÐ ÑÐ Ð&lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = 81520000&lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = Ð âÐ¡ÐÐ Â°Ð ÐÐ ÑÐ¡â Ð¡â¹ Ð ÑÐ¡ÑÐ ÐÐ ÑÐ¡â Ð ÑÐ ÑÐ Â°Ð Â»Ð¡ÐÐ ÐÐ¡â¹Ð¡â¦ Ð ÑÐ Â±Ð¡ÐÐ Â°Ð Â·Ð ÑÐ ÐÐ Â°Ð ÐÐ ÑÐ â 2-Ð ÑÐ Ñ Ð ÑÐ ÑÐ¡ÐÐ¡ÐÐ ÒÐ ÑÐ Â°(Ð ÑÐ¡ÐÐ Â°Ð ÐÐ ÑÐ¡â Ð¡â¹ Ð Â°Ð ÒÐ ÑÐ ÑÐ ÐÐ ÑÐ¡ÐÐ¡âÐ¡ÐÐ Â°Ð¡âÐ Ñ&lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = Ð âÐ¡ÐÐ Â°Ð ÐÐ ÑÐ¡â Ð¡â¹ Ð ÑÐ¡ÑÐ ÐÐ ÑÐ¡â Ð ÑÐ ÑÐ Â°Ð Â»Ð¡ÐÐ ÐÐ¡â¹Ð¡â¦ Ð ÑÐ Â±Ð¡ÐÐ Â°Ð Â·Ð ÑÐ ÐÐ Â°Ð ÐÐ ÑÐ â 2-Ð ÑÐ Ñ Ð ÑÐ ÑÐ¡ÐÐ¡ÐÐ ÒÐ ÑÐ Â°(Ð ÑÐ¡ÐÐ Â°Ð ÐÐ ÑÐ¡â Ð¡â¹ Ð Â°Ð ÒÐ ÑÐ ÑÐ ÐÐ ÑÐ¡ÐÐ¡âÐ¡ÐÐ Â°Ð¡âÐ Ñ&lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = YES&lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = Solid&lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = No Fill&lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = 105.7249011436,53.1853454814&lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = 12&lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = 400&lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; =</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Баяндаевский_.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.6063347547,53.3655074186,32.389 105.6200967499,53.3516768525,32.389 105.7208120537,53.4050544816,32.389 105.7460628448,53.4230702617,32.389 105.7460974236,53.4241455315,32.389 105.7461234236,53.4249795315,32.389 105.7463584236,53.4261005315,32.389 105.7468534236,53.4267525315,32.389 105.7476094236,53.4272735315,32.389 105.7486524236,53.4276905315,32.389 105.7497214236,53.4280035315,32.389 105.7521664236,53.4290075315,32.389 105.7539654236,53.4297635315,32.389 105.7550344236,53.4300765315,32.389 105.7566244236,53.4306765315,32.389 105.7568303179,53.4307525727,32.389 105.7817740628,53.4511469531,32.389 105.7979940175,53.4673669078,32.389 105.8151270572,53.4737408748,32.389 105.823815192,53.4785445313,32.389 105.8232644236,53.4791665315,32.389 105.8203694236,53.4822955315,32.389 105.8178144236,53.4848775315,32.389 105.8165174236,53.4862455315,32.389 105.8157614236,53.4869235315,32.389 105.8153964236,53.4872625315,32.389 105.8148484236,53.4876535315,32.389 105.8141704236,53.4880715315,32.389 105.8129714236,53.4886185315,32.389 105.8111724236,53.4894795315,32.389 105.8096074236,53.4900265315,32.389 105.8078344236,53.4904695315,32.389 105.8059314236,53.4908085315,32.389 105.8043664236,53.4912265315,32.389 105.8024634236,53.4917475315,32.389 105.8003514236,53.4923215315,32.389 105.7987344236,53.4928685315,32.389 105.7967014236,53.4936245315,32.389 105.7947454236,53.4943815315,32.389 105.77593758,53.4798268228,32.389 105.7630139401,53.4753862774,32.389 105.7596559429,53.4590111736,32.389 105.7383570125,53.4459041395,32.389 105.7032956965,53.4347631606,32.389 105.6975613691,53.416085637,32.389 105.6443447628,53.3878850341,32.389 105.6129375725,53.3787504418,32.389 105.6063347547,53.3655074186,32.389</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 73° 24' 12.891&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 22.617 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 25279052 sq m&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 25.279052</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.8803529809,52.9461409,25.279 101.997278142,52.9671108141,25.279 101.9858,52.9949,25.279 101.869172187,52.9722928563,25.279 101.8803529809,52.9461409,25.279</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;GM_LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 33.716804&lt;BR&gt;&lt;B&gt;LAYER&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;GM_TYPE&lt;/B&gt; = Unknown Area Type&lt;BR&gt;&lt;B&gt;MAP_NAME&lt;/B&gt; = Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ РЎР‚Р В°Р в„–Р С•Р Р…Р С•Р Р†_Р С—Р В».shp&lt;BR&gt;&lt;B&gt;NAME&lt;/B&gt; = Р В§Р ВµРЎР‚Р ВµР СРЎвЂ¦Р С•Р Р†РЎРѓР С”Р С‘Р в„– РЎР‚Р В°Р в„–Р С•Р Р…&lt;BR&gt;&lt;B&gt;Cod_Class&lt;/B&gt; = 81520000&lt;BR&gt;&lt;B&gt;Name_Class&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;ObjectName&lt;/B&gt; = Р вЂњРЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р СРЎС“Р Р…Р С‘РЎвЂ Р С‘Р С—Р В°Р В»РЎРЉР Р…РЎвЂ№РЎвЂ¦ Р С•Р В±РЎР‚Р В°Р В·Р С•Р Р†Р В°Р Р…Р С‘Р в„– 2-Р С–Р С• Р С—Р С•РЎР‚РЎРЏР Т‘Р С”Р В°(Р С–РЎР‚Р В°Р Р…Р С‘РЎвЂ РЎвЂ№ Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С&lt;BR&gt;&lt;B&gt;CLOSED&lt;/B&gt; = YES&lt;BR&gt;&lt;B&gt;BORDER_STY&lt;/B&gt; = Solid&lt;BR&gt;&lt;B&gt;BORDER_COL&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;BORDER_WID&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FILL_STYLE&lt;/B&gt; = No Fill&lt;BR&gt;&lt;B&gt;LABEL_POS&lt;/B&gt; = 102.0761327509,52.7650930012&lt;BR&gt;&lt;B&gt;FONT_SIZE&lt;/B&gt; = 12&lt;BR&gt;&lt;B&gt;FONT_COLOR&lt;/B&gt; = RGB(0,0,0)&lt;BR&gt;&lt;B&gt;FONT_CHARS&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;FONT_WEIGH&lt;/B&gt; = 400&lt;BR&gt;&lt;B&gt;FILL_COLOR&lt;/B&gt; = </description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.2978711167,53.153125309,33.717 102.3128689208,53.1278250294,33.717 102.3271656625,53.112652977,33.717 102.3549162542,53.05546601,33.717 102.3219910867,53.0485189664,33.717 102.3387594229,53.0085079656,33.717 102.387104505,53.0212539595,33.717 102.3369058031,53.1476376273,33.717 102.3355774236,53.1471675315,33.717 102.3346574236,53.1476255315,33.717 102.3343834236,53.1477635315,33.717 102.3338054236,53.1480505315,33.717 102.3333614236,53.1482755315,33.717 102.3317524236,53.1490685315,33.717 102.3312574236,53.1494895315,33.717 102.3310394236,53.1506765315,33.717 102.3306164236,53.1507825315,33.717 102.3300154236,53.1508015315,33.717 102.3294394236,53.1510065315,33.717 102.3289604236,53.1518825315,33.717 102.3289034236,53.1525995315,33.717 102.3283074236,53.1531915315,33.717 102.3277444236,53.1535635315,33.717 102.3271044236,53.1536635315,33.717 102.3264994236,53.1536595315,33.717 102.3260414236,53.1537435315,33.717 102.3254434236,53.1536195315,33.717 102.3250344236,53.1535865315,33.717 102.3246314236,53.1538075315,33.717 102.3242474236,53.1542465315,33.717 102.3237564236,53.1545025315,33.717 102.3234214236,53.1551525315,33.717 102.3226774236,53.1556695315,33.717 102.3219144236,53.1560715315,33.717 102.3216162974,53.1565524865,33.717 102.3109178785,53.1550095684,33.717 102.2978711167,53.153125309,33.717</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.018 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24933996 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.998 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.933996</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.0268082925,52.7631913589,24.934 102.0268082925,52.7182755947,24.934 102.1009973885,52.7182755947,24.934 102.1009973885,52.7631913589,24.934 102.0268082925,52.7631913589,24.934</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 20.018 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 24933203 sq m&lt;BR&gt;&lt;B&gt;LENGTH&lt;/B&gt; = 5.008 km&lt;BR&gt;&lt;B&gt;WIDTH&lt;/B&gt; = 4.998 km&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 24.934899</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.419721604,52.809164998,24.935 102.419721604,52.7642492338,24.935 102.493987019,52.7642492338,24.935 102.493987019,52.809164998,24.935 102.419721604,52.809164998,24.935</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 62.64 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 55818926 sq m&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 164° 45' 56.171&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;ELEVATION&lt;/B&gt; = 84.532378</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.1684644481,53.0325042299,84.532 103.1712312462,53.042679525,84.532 103.1618288029,53.0444826942,84.532 103.1505475661,53.0670325268,84.532 103.0937603327,53.1912268041,84.532 103.0783202673,53.1896660759,84.532 103.0736720952,53.2058279534,84.532 103.092201733,53.2098846661,84.532 103.0819751205,53.2333098298,84.532 103.060297483,53.2297701524,84.532 103.0512044454,53.2176675425,84.532 103.0635436069,53.1850599492,84.532 103.1180894212,53.0568987604,84.532 103.1322534857,53.0613209269,84.532 103.1464277327,53.0386276695,84.532 103.1390830117,53.0155857825,84.532 103.1471693201,52.9948050494,84.532 103.1836265328,52.9943596378,84.532 103.1684644481,53.0325042299,84.532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<description>Unknown Area Type&lt;BR&gt;&lt;BR&gt;&lt;B&gt;BEARING&lt;/B&gt; = 37° 27' 12.546&quot;&lt;BR&gt;&lt;B&gt;SINUOSITY&lt;/B&gt; = 1&lt;BR&gt;&lt;B&gt;PERIMETER&lt;/B&gt; = 25.907 km&lt;BR&gt;&lt;B&gt;ENCLOSED_AREA&lt;/B&gt; = 25120041 sq m</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#merged">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="layer">Area Features</SimpleData>
+		<SimpleData name="path">C:/Users/A.Agadilov/Downloads/Челябинск ЗОНЫ/Высокое разрешение/Черемховский + ГО Черемхово.kml|layername=Area Features|geometrytype=Polygon25D|uniqueGeometryType=yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.3762564236,53.2649475315,0 103.4583514628,53.3364274272,0 103.4276120293,53.3544662572,0 103.3843354236,53.3044255315,0 103.3710824236,53.3038275315,0 103.3405577551,53.2813400939,0 103.3584105035,53.2731451541,0 103.3762564236,53.2649475315,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
